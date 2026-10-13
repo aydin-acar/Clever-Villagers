@@ -1,0 +1,65 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Clever Villagers BP",
+    "description": "Akıllı köylüler, yaşayan köy ekonomisi, sur/yol/meşale motoru. §7Regrowth (Java, mactso, MIT) esinli Bedrock portu. v2 alpha: depo/stok/ledger.",
+    "uuid": "75f2215c-ed11-4909-8271-f1839834c409",
+    "version": [
+      2,
+      11,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "b8e9eae8-a2a2-4f41-9d4f-43cc545cc16a",
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": [
+        2,
+        10,
+        0
+      ]
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": [
+        2,
+        2,
+        0
+      ]
+    },
+    {
+      "uuid": "ac213b81-caf8-4e1c-be26-fc52a067ab2f",
+      "version": [
+        2,
+        11,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Qwen (Bedrock port)",
+      "mactso (original Regrowth concept, MIT)"
+    ],
+    "license": "MIT",
+    "product_type": "addon"
+  }
+}

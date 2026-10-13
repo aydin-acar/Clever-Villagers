@@ -1,0 +1,5 @@
+pack.name=Clever Villagers (Regrowth RP)
+pack.description=Item texture & pack icons for Clever Villagers — Bedrock port of the Regrowth mod.
+item.cv:toolkit=Village Toolkit
+item.cv:toolkit.tooltip=Use to open the Clever Villagers settings menu
+item.cv:order_paper=Order Paper

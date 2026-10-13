@@ -1,0 +1,5 @@
+pack.name=Clever Villagers (Regrowth RP)
+pack.description=Clever Villagers için eşya dokusu ve paket simgeleri — Regrowth modunun Bedrock uyarlaması.
+item.cv:toolkit=Regrowth Alet Çantası
+item.cv:toolkit.tooltip=Clever Villagers ayar menüsünü açmak için kullan
+item.cv:order_paper=Sipariş Kağıdı

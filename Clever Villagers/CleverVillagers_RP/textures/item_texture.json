@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "clever_villagers_regrowth",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "cv_toolkit": {
+      "textures": "textures/items/cv_toolkit"
+    },
+    "cv_order_paper": {
+      "textures": "textures/items/cv_order_paper"
+    }
+  }
+}
