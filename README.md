@@ -1,6 +1,6 @@
-# 🧑‍🌾 Clever Villagers — Regrowth for Minecraft Bedrock
+# 🧑‍🌾 Clever Villagers — Minecraft Bedrock PC
 
-**Java modunun birebir Bedrock uyarlaması.** Orijinal: [mactso/Regrowth](https://github.com/mactso/Regrowth) (Forge, MIT lisansı).
+**Java modunun farklı bir Bedrock uyarlaması.** Orijinal: [mactso/Regrowth](https://github.com/mactso/Regrowth) (Forge, MIT lisansı).
 Bu paket, Java modunun tüm ana mekaniklerini **yalnızca kararlı (stable) Script API** kullanarak Bedrock'a taşır — **deneysel özellik (experimental toggle) GEREKTİRMEZ**.
 
 > Hedef sürüm: **Minecraft Bedrock 26.50+** (Eylül 2026 güncel sürüm; `@minecraft/server` 2.10.0, `@minecraft/server-ui` 2.2.0).
